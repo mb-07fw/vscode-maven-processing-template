@@ -7,11 +7,15 @@ Processing (Version modifiable in pom.xml)
 
 **Default is set to 4.3 ↑**
 
+VS Code.
+
 Maven extension. (Obtainable via VS Code extensions)
 
 Java Coding Pack. (Obtainable from VS Docs)
 
 ## Links
+
+[**VS Code**](https://code.visualstudio.com/download)
 
 [**Processing**](https://processing.org/download)
 
