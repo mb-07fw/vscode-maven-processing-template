@@ -17,7 +17,7 @@ public class App extends PApplet
 
     // Standard setup function ↓
     public void setup() {
-        background(0);
+        background(255);
     }
 
     // Standard draw function ↓
