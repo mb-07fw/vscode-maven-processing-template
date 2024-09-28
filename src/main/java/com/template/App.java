@@ -7,16 +7,17 @@ public class App extends PApplet
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        PApplet.main("com.template.App");
     }
 
     // Window settings ↓
     public void settings() {
-        size(800, 600);
+        size(600, 600);
     }
 
     // Standard setup function ↓
     public void setup() {
-        background(255);
+        background(0);
     }
 
     // Standard draw function ↓
